@@ -1,2 +1,2 @@
-# voice reconization
+# voice reconization. 
  
